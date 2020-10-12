@@ -1,4 +1,4 @@
-package ta.dbbest.controller;
+package ta.dbbest;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -11,13 +11,6 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.FileChooser;
-import ta.dbbest.algorithm.Dijkstra;
-import ta.dbbest.algorithm.Graph;
-import ta.dbbest.algorithm.Node;
-import ta.dbbest.model.InputRecord;
-import ta.dbbest.model.OutputRecord;
-import ta.dbbest.model.TableRecord;
-import ta.dbbest.persistance.DatabaseConnection;
 
 import java.io.File;
 import java.net.URL;

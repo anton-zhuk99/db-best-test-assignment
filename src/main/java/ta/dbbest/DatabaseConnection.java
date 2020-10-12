@@ -1,4 +1,4 @@
-package ta.dbbest.persistance;
+package ta.dbbest;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

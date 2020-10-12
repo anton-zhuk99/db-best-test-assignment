@@ -1,4 +1,4 @@
-package ta.dbbest.algorithm;
+package ta.dbbest;
 
 import java.util.HashSet;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package ta.dbbest.model;
+package ta.dbbest;
 
 public class TableRecord {
 
